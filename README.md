@@ -13,7 +13,7 @@
 ```yaml
 services:
   sonarr:
-    image: dannis1514/sonarr:1.7.1
+    image: dannis1514/sonarr:latest
     container_name: sonarr
     restart: unless-stopped
     ports:
@@ -41,9 +41,9 @@ docker compose up -d
 ## 手动拉取镜像
 
 ```bash
-docker pull dannis1514/sonarr:1.7.1
+docker pull dannis1514/sonarr:latest
 ```
 
 ## 说明
 
-本项目为闭源软件，此仓库仅提供部署文档，不包含任何源码。
+此仓库仅提供部署文档，不包含其它信息。
