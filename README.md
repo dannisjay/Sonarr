@@ -4,7 +4,7 @@
 
 ## 镜像
 
-- Docker Hub：`dannis1514/Sonarr`
+- Docker Hub：`dannis1514/sonarr`
 - 标签：`1.7.1`、`latest`
 - 支持架构：`linux/amd64`、`linux/arm64`
 
@@ -13,7 +13,7 @@
 ```yaml
 services:
   sonarr:
-    image: dannis1514/Sonarr:1.7.1
+    image: dannis1514/sonarr:1.7.1
     container_name: sonarr
     restart: unless-stopped
     ports:
@@ -41,7 +41,7 @@ docker compose up -d
 ## 手动拉取镜像
 
 ```bash
-docker pull dannis1514/Sonarr:1.7.1
+docker pull dannis1514/sonarr:1.7.1
 ```
 
 ## 说明
