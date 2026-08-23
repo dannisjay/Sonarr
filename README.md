@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dannisjay/Sonarr/main/Sonarr.svg" alt="Sonarr Logo" width="300">
+  <img src="https://raw.githubusercontent.com/dannisjay/Sonarr/main/Sonarr.svg" alt="Sonarr Logo" width="75">
 </p>
 
 <h1 align="center">Sonarr</h1>
