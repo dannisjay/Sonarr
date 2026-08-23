@@ -1,7 +1,10 @@
-![Sonarr Logo](https://github.com/dannisjay/Sonarr/blob/main/Sonarr.svg)
-# Sonarr
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dannisjay/Sonarr/main/Sonarr.svg" alt="Sonarr Logo" width="300">
+</p>
 
-磁力聚合搜索 + 115 离线下载 + Telegram 机器人
+<h1 align="center">Sonarr</h1>
+
+磁力聚合搜索 / 115 离线下载 / Telegram 机器人
 
 ## 镜像
 
