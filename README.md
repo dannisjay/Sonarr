@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dannisjay/Sonarr/main/Sonarr.svg" alt="Sonarr Logo" width="75">
-</p>
-
-<h1 align="center">Sonarr</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dannisjay/Sonarr/main/Sonarr.svg" alt="Sonarr Logo" width="113">
+  <h1>Sonarr</h1>
+</div>
 
 磁力聚合搜索 / 115 离线下载 / Telegram 机器人
 
