@@ -1,4 +1,4 @@
-https://github.com/dannisjay/Sonarr/blob/main/Sonarr.png
+![Sonarr Logo](https://github.com/dannisjay/Sonarr/blob/main/Sonarr.png)
 # Sonarr
 
 磁力聚合搜索 + 115 离线下载 + Telegram 机器人
