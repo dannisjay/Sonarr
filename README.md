@@ -8,7 +8,7 @@
 ## 镜像
 
 - Docker Hub：`dannis1514/sonarr`
-- 标签：`1.7.1`、`latest`
+- 标签：`latest`
 - 支持架构：`linux/amd64`、`linux/arm64`
 
 ## 说明
